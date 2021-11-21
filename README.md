@@ -6,7 +6,6 @@ Front-end Angular
 
 
 ```
-
 ```
 cd <Escolher a pasta>
 npm install
