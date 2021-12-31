@@ -1,13 +1,9 @@
 # CURSO DE ANGULAR PLATAFORMA DESENVOLVEDOR.IO
-Projeto em Angular 
-
 ```
-Front-end Angular 
+Projetos em Agular 
 
-
-```
-```
 cd <Escolher a pasta>
 npm install
 npm start
- 
+
+```
